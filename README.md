@@ -60,7 +60,9 @@ The initial pattern constitutes the seed of the system. The first generation is 
 7. Press "Q" to quit the application.
 
 ## Snapshots
-// TODO :: Add snapshots
+
+![Menu](assets/snapshots/menu.png)
+![Preset](assets/snapshots/active.png)
 
 ## License
 Standard MIT license. Feel free to modify as you please.
